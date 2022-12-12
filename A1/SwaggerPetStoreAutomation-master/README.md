@@ -21,12 +21,12 @@ This type of solution was used for better code reusability,maintainability of th
 * .NET Core
 * RestSharp
 <div style="text-align: justify">
-This project is developed using C# with .NET Core,XUnit as the testing framework and RestSharp as my .NET client for the APIs.
+This project is developed using C# with .NET Core,NUnit as the testing framework and RestSharp as my .NET client for the APIs.
 </div>
 <div style="text-align: justify">
 I decided to utilize C# along with Restsharp because this library it's one of the best and easy to use libraries to handle REST api in .NET,it allows you to serialize/deserialize Json as Objects easily and also RestSharp support all the HTTP methods(GET, PUT, HEAD, POST, DELETE and OPTIONS).
 
-I also utilize .NET Core so this project can have the Ability to run on Windows, macOS, and Linux and Xunit since this is one of the .NET Frameworks that is far more flexible and extensible than others .Net Unit test frameworks.
+I also utilize .NET Core so this project can have the Ability to run on Windows, macOS, and Linux and Nunit since this is one of the .NET Frameworks that is far more flexible and extensible than others .Net Unit test frameworks.
 </div>
 
 # Scenarios covered on the solution
