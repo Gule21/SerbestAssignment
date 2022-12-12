@@ -20,7 +20,6 @@ This type of solution was used for better code reusability,maintainability of th
 * C#
 * .NET Core
 * RestSharp
-* XUnit
 <div style="text-align: justify">
 This project is developed using C# with .NET Core,XUnit as the testing framework and RestSharp as my .NET client for the APIs.
 </div>
