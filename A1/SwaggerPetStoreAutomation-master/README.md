@@ -73,7 +73,7 @@ Follow instructions [here](https://dotnet.microsoft.com/download)
 
 1. Clone/Download the project from this github repository to a path in your machine
 
-2. Navigate to the project folder **abraham-mejia** using your OS CLI
+2. Navigate to the project folder using your OS CLI
 
 3. For execute the test suite,run the following command on the terminal:
 
