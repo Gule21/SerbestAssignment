@@ -1,0 +1,232 @@
+{
+    "numFound": 1,
+    "start": 0,
+    "numFoundExact": true,
+    "docs": [
+        {
+            "key": "/works/OL151866W",
+            "type": "work",
+            "seed": [
+                "/books/OL9243682M",
+                "/books/OL7288977M",
+                "/books/OL9243034M",
+                "/books/OL23390454M",
+                "/books/OL24093441M",
+                "/books/OL7288328M",
+                "/books/OL7288329M",
+                "/books/OL9243033M",
+                "/books/OL9953293M",
+                "/books/OL9951908M",
+                "/books/OL9952087M",
+                "/works/OL151866W",
+                "/subjects/rabbits",
+                "/subjects/juvenile_fiction",
+                "/subjects/board_books",
+                "/subjects/fiction",
+                "/subjects/stories_in_rhyme",
+                "/subjects/bedtime",
+                "/subjects/counting",
+                "/subjects/children's_fiction",
+                "/subjects/moon_fiction",
+                "/subjects/night_fiction",
+                "/subjects/counting_books",
+                "/subjects/bedtime_fiction",
+                "/subjects/rabbits_fiction",
+                "/authors/OL22122A"
+            ],
+            "title": "Goodnight Moon 123",
+            "title_suggest": "Goodnight Moon 123",
+            "subtitle": "A Counting Book",
+            "edition_count": 11,
+            "edition_key": [
+                "OL9243682M",
+                "OL7288977M",
+                "OL9243034M",
+                "OL23390454M",
+                "OL24093441M",
+                "OL7288328M",
+                "OL7288329M",
+                "OL9243033M",
+                "OL9953293M",
+                "OL9951908M",
+                "OL9952087M"
+            ],
+            "publish_date": [
+                "2007",
+                "March 18, 2008",
+                "July 1, 2008",
+                "June 26, 2007"
+            ],
+            "publish_year": [
+                2007,
+                2008
+            ],
+            "first_publish_year": 2007,
+            "number_of_pages_median": 32,
+            "lccn": [
+                "2006016546",
+                "2007280765",
+                "2008277326"
+            ],
+            "publish_place": [
+                "New York"
+            ],
+            "oclc": [
+                "179803766",
+                "234235364"
+            ],
+            "contributor": [
+                "Clement Hurd (Illustrator)",
+                "Hurd, Clement, 1908-1988, ill."
+            ],
+            "lcc": [
+                "PZ-0008.30000000.B815Gob 2007",
+                "PZ-0008.30000000.B815 Gob 2007b",
+                "PZ-0073.00000000.B6853 2007",
+                "PZ-0008.30000000.B815 Gob 2007"
+            ],
+            "ddc": [
+                "[E]"
+            ],
+            "isbn": [
+                "0061173827",
+                "0061125946",
+                "0061125970",
+                "9780061125942",
+                "0061173258",
+                "0061667552",
+                "0061125938",
+                "9780061173257",
+                "9780061125935",
+                "9780061173820",
+                "9780061125973",
+                "9780061667558"
+            ],
+            "last_modified_i": 1670623634,
+            "ebook_count_i": 2,
+            "ebook_access": "borrowable",
+            "has_fulltext": true,
+            "public_scan_b": false,
+            "ia": [
+                "goodnightmoon1230000brow_d2y1",
+                "goodnightmoon1230000brow"
+            ],
+            "ia_collection": [
+                "cnusd-ol",
+                "delawarecountydistrictlibrary-ol",
+                "hamiltonpubliclibrary-ol",
+                "inlibrary",
+                "internetarchivebooks",
+                "openlibrary-d-ol",
+                "printdisabled",
+                "uni-ol",
+                "universityofoklahoma-ol"
+            ],
+            "ia_collection_s": "cnusd-ol;delawarecountydistrictlibrary-ol;hamiltonpubliclibrary-ol;inlibrary;internetarchivebooks;openlibrary-d-ol;printdisabled;uni-ol;universityofoklahoma-ol",
+            "lending_edition_s": "OL23390454M",
+            "lending_identifier_s": "goodnightmoon1230000brow_d2y1",
+            "printdisabled_s": "OL23390454M;OL7288329M",
+            "cover_edition_key": "OL9243033M",
+            "cover_i": 45926,
+            "publisher": [
+                "HarperCollins",
+                "Rayo",
+                "HarperFestival"
+            ],
+            "language": [
+                "eng"
+            ],
+            "author_key": [
+                "OL22122A"
+            ],
+            "author_name": [
+                "Margaret Wise Brown"
+            ],
+            "author_alternative_name": [
+                "Timothy Hay",
+                "Margaret Wise Brown",
+                "Juniper Sage",
+                "Golden MacDonald",
+                "Margaret Wise And Edith Thatcher Hurd Brown",
+                "Margaret Wise Brown,Margaret Wise Brown"
+            ],
+            "subject": [
+                "Rabbits",
+                "Juvenile fiction",
+                "Board books",
+                "Fiction",
+                "Stories in rhyme",
+                "Bedtime",
+                "Counting",
+                "Children's fiction",
+                "Moon, fiction",
+                "Night, fiction",
+                "Counting books",
+                "Bedtime, fiction",
+                "Rabbits, fiction"
+            ],
+            "id_amazon": [
+                ""
+            ],
+            "id_goodreads": [
+                "2508736",
+                "2362467",
+                "107709",
+                "2508756",
+                "2993215",
+                "32936"
+            ],
+            "id_librarything": [
+                "3377897"
+            ],
+            "ia_box_id": [
+                "IA1765824",
+                "IA40139203"
+            ],
+            "publisher_facet": [
+                "HarperCollins",
+                "HarperFestival",
+                "Rayo"
+            ],
+            "subject_facet": [
+                "Bedtime",
+                "Bedtime, fiction",
+                "Board books",
+                "Children's fiction",
+                "Counting",
+                "Counting books",
+                "Fiction",
+                "Juvenile fiction",
+                "Moon, fiction",
+                "Night, fiction",
+                "Rabbits",
+                "Rabbits, fiction",
+                "Stories in rhyme"
+            ],
+            "_version_": 1751775852250529794,
+            "lcc_sort": "PZ-0008.30000000.B815 Gob 2007b",
+            "author_facet": [
+                "OL22122A Margaret Wise Brown"
+            ],
+            "subject_key": [
+                "bedtime",
+                "bedtime_fiction",
+                "board_books",
+                "children's_fiction",
+                "counting",
+                "counting_books",
+                "fiction",
+                "juvenile_fiction",
+                "moon_fiction",
+                "night_fiction",
+                "rabbits",
+                "rabbits_fiction",
+                "stories_in_rhyme"
+            ],
+            "ddc_sort": "[E]"
+        }
+    ],
+    "num_found": 1,
+    "q": "Goodnight Moon 123 lap",
+    "offset": null
+}
